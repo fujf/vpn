@@ -11,7 +11,8 @@ Useful tools
   Work
     1.电脑控制Android  
       Scrcpy
-    2.
+    2.视频修复
+      Untrunc
 
 
 
