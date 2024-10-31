@@ -4,15 +4,7 @@ cf.090227.xyz#CM提供
 cfip.xxxxxxxx.tk#OTC提供
 
 
-Useful tools
-  Usually
-    1.
 
-  Work
-    1.电脑控制Android  
-      Scrcpy
-    2.视频修复
-      Untrunc
 
 
 
